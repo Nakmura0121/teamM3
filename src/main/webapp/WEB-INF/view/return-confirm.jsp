@@ -14,7 +14,7 @@
 		<h1>下記の図書を返却します。よろしいですか？</h1>
 		
 		<div class="ok" >
-		<a href="ReturnExecuteServlet" class="ok2"  >OK</a> <br>
+		<a href="ReturnExecuteServlet" class="ok2">OK</a> <br>
 		</div>
 </body>
 </html>
